@@ -1,3 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 :root {
   --bg-obsidian: #090A0F;
   --bg-surface: rgba(18, 24, 38, 0.75);
